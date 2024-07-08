@@ -12,7 +12,7 @@ body{
     position: absolute;
 }
 
-.contenedor{
+.container{
     position: relative;
     width: 100%;
     display: flex;
